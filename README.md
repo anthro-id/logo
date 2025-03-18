@@ -4,7 +4,7 @@ It is intended for use by our platform and for whitelisting in CSP and CORS conf
 
 # LICENSE
 We do not own those logos. Please refer to:
-- [Midtrans/Veritrans (GoPay, ShopeePay, etc.)](https://github.com/veritrans/logo)
+- [Jaringan PRIMA](https://www.jaringanprima.co.id/)
 - [PayPal Multimedia, Press Kits and Guidelines](https://newsroom.paypal-corp.com/media-resources)
 - [Mastercard Brand Center](https://www.mastercard.com/brandcenter/en/home)
 - [Apple Pay Marketing Guidelines](https://developer.apple.com/apple-pay/marketing/)
