@@ -8,8 +8,5 @@ We chose the highest-as-possible quality (SVG) and a fallback (PNG/WebP)
 # LICENSE
 We do not own those logos. Please refer to:
 - [Midtrans/Veritrans](https://github.com/veritrans/logo) (GoPay, ShopeePay, etc.)
-- [Jaringan PRIMA](https://www.jaringanprima.co.id/)
 - [PayPal Multimedia, Press Kits and Guidelines](https://newsroom.paypal-corp.com/media-resources)
 - [Mastercard Brand Center](https://www.mastercard.com/brandcenter/en/home)
-- [Apple Pay Marketing Guidelines](https://developer.apple.com/apple-pay/marketing/)
-- [Google Pay Brand Guidelines](https://developers.google.com/pay/api/web/guides/brand-guidelines#logo-mark)
