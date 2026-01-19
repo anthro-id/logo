@@ -3,7 +3,7 @@ This GitHub repository is used to simplify the way we deliver images, such as lo
 It is intended for use by our platform and for whitelisting in CSP and CORS configurations.
 
 # Quality
-We used SVGs, then compress it with SVGO.
+We used [SVG](https://id.wikipedia.org/wiki/SVG)s, then compress it with [SVGO](https://svgo.dev).
 
 # LICENSE
 We do not own those logos. Please refer to:
